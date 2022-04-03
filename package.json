@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "express": "^4.17.3",
+    "moment": "^2.29.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  },
+  "name": "codershub",
+  "version": "1.0.0",
+  "description": "This is chatting Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/hritikkhurana10sm/CodersHub-.git"
+  },
+  "keywords": [
+    "CodersHub"
+  ],
+  "author": "Hritik Khurana",
+  "license": "ISC"
+}
