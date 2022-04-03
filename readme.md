@@ -11,8 +11,8 @@
 
 
 ## Overview 👀
-<img src="./public/img/Capture1.png">
-<img src="./public/img/Capture2.png">
+<img src="/public/img/Capture1.PNG">
+<img src="/public/img/Capture2.PNG">
 
 
 
