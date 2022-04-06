@@ -47,10 +47,10 @@
     >> For Windows: Git Bash
     >> For Linux: Terminal
     >> git clone https://github.com/hritikkhurana10sm/CodersHub-.git
-    >> cd Peercoder
+    >> cd CodersHub
 > Install all dependencies
     >> npm i
-> Spin the server on port 5000
+> Spin the server on port 3000
     >> npm start
 > Visit the website on http://localhost:3000/
     
