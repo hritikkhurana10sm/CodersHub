@@ -26,7 +26,7 @@
 
 #### Remote pair programming is something developers have grappled with since well before the pandemic began. 
 #### CodersHub is basically a platform where two peers can do their interview preparation by practicing DSA problems and improve their problem solving skills.
-#### Peer Coder is ideal for Online Interviewing of Developers as well as Learning to code from Friends.
+#### CodersHub is ideal for Online Interviewing of Developers as well as Learning to code from Friends.
 
 
 ## How it works? 🤔
