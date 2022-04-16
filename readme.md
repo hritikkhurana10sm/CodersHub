@@ -1,4 +1,4 @@
-# [CodersHub](https://codershub.herokuapp.com/) 
+# [CodersHub](https://coder-hub.herokuapp.com/) 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
@@ -30,7 +30,7 @@
 
 
 ## How it works? 🤔
-- **Open the website [https://codershub.herokuapp.com/](https://codershub.herokuapp.com/)**
+- **Open the website [https://coder-hub.herokuapp.com/](https://coder-hub.herokuapp.com/)**
 - **Peer just needs to send same Room Name/id to another peer in order to join a room where apart from practicing problems they can share location, also they can communicate by doing normal chat as well as video chat with each other.**
 
 
